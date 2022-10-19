@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio2_pruebalogica</string>
+    <string name="ingrese">Ingrese el texto aquí</string>
+    <string name="ordenar">Ordenar</string>
+</resources>
